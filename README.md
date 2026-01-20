@@ -32,4 +32,4 @@ The data was processed to handle diverse motorcycle attributes. Using Power Quer
 This project demonstrates the ability to build specialized business intelligence reports tailored to product-specific segments. It highlights proficiency in multi-page report design, advanced slicer implementation, and data storytelling. The project showcases how technical Power BI skills can be applied to solve real-world retail and inventory challenges in the automotive/motorcycle industry.
 
 ### Dashboard Preview
-![Dashboard Preview](Your_Image_Link_Here)
+![Dashboard Preview](https://github.com/AbeshRahman/Bike-Sales-Overview/blob/main/250%20CC%20Bike%20Screenshot.png)

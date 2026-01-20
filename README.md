@@ -1,5 +1,7 @@
 # Bike-Sales-Overview-Dashboard
 
+![Dashboard Preview](https://github.com/AbeshRahman/Bike-Sales-Overview/blob/main/250%20CC%20Bike%20Screenshot.png)
+
 **Project Overview**: 
 The Bike Sales Performance Dashboard is a multi-page Power BI report designed to analyze sales data across different motorcycle categories (150CC, 180CC, and 250CC). This dashboard provides a specialized view of retail performance, allowing stakeholders to track revenue, volume, and customer preferences within specific engine capacity segments.
 
@@ -32,5 +34,4 @@ The data was processed to handle diverse motorcycle attributes. Using Power Quer
 This project demonstrates the ability to build specialized business intelligence reports tailored to product-specific segments. It highlights proficiency in multi-page report design, advanced slicer implementation, and data storytelling. The project showcases how technical Power BI skills can be applied to solve real-world retail and inventory challenges in the automotive/motorcycle industry.
 
 ### Dashboard Preview
-![Dashboard Preview](https://github.com/AbeshRahman/Bike-Sales-Overview/blob/main/250%20CC%20Bike%20Screenshot.png)
 ![Dashboard Preview](https://github.com/AbeshRahman/Bike-Sales-Overview/blob/main/Regional%20%26%20Customer%20Based%20Detailed%20Insights.png)

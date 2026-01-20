@@ -33,3 +33,4 @@ This project demonstrates the ability to build specialized business intelligence
 
 ### Dashboard Preview
 ![Dashboard Preview](https://github.com/AbeshRahman/Bike-Sales-Overview/blob/main/250%20CC%20Bike%20Screenshot.png)
+![Dashboard Preview](https://github.com/AbeshRahman/Bike-Sales-Overview/blob/main/Regional%20%26%20Customer%20Based%20Detailed%20Insights.png)
